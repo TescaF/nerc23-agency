@@ -52,8 +52,8 @@ en: &DEFAULT_EN
   portfolio:
     title: "Invited Speakers"
     text: "Click on a speaker to view their bio"
-    section: speakers
-    closebutton: "Close Project"
+    section: "speakers"
+    closebutton: "Close"
 
   about:
     title: "Location"
@@ -61,62 +61,35 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: location
 
-  about:
-    title: "Registration"
+  schedule:
+    title: "Schedule"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: registration
+    section: schedule
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Organizers"
     section: organizers
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      - name: "[Marynel Vázquez](https://www.marynel.net/)"
+        role: "Computer Science, Yale"
+        image: assets/img/team/marynel.jpg
+      - name: "[Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/)"
+        role: "Computer Science, Yale"
+        image: assets/img/team/scaz.jpg
+      - name: "[Ian Abraham](https://seas.yale.edu/faculty-research/faculty-directory/ian-abraham)"
+        role: "Mechanical Engineering, Yale"
+        image: assets/img/team/ian.jpg
+      - name: "[Aaron Dollar](https://seas.yale.edu/faculty-research/faculty-directory/aaron-m-dollar)"
+        role: "Mechanical Engineering, Yale"
+        image: assets/img/team/aaron.jpg
+      - name: "[Danny Rakita](https://dannyrakita.net/)"
+        role: "Computer Science, Yale"
+        image: assets/img/team/danny.jpg
+      - name: "[Tesca Fitzgerald](https://www.tescafitzgerald.com)"
+        role: "Computer Science, Yale"
+        image: assets/img/team/tesca.jpg
 
-  footer:
-    legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
