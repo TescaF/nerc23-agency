@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Register
     buttonlink: "#registration"
 
-  about:
+  services:
     title: "About"
     text: "Lorem ipsum"
     section: about
@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  sponsors:
+  clients:
     section: sponsors
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -49,25 +49,25 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  speakers:
+  portfolio:
     title: "Invited Speakers"
     text: "Click on a speaker to view their bio"
     section: speakers
     closebutton: "Close Project"
 
-  location:
+  about:
     title: "Location"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: location
 
-  registration:
+  about:
     title: "Registration"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: registration
 
-  organizers:
+  team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
