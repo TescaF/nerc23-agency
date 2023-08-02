@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: about
     - title: "Location"
       section: location
-    - title: "Invited Speakers"
+    - title: "Speakers"
       section: speakers
     - title: "Schedule"
       section: schedule

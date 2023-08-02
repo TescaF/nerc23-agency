@@ -48,12 +48,24 @@ en: &DEFAULT_EN
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
+
   speakers:
     title: "Invited Speakers"
     text: "Click on a speaker to view their bio"
     section: speakers
     closebutton: "Close Project"
 
+  location:
+    title: "Location"
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: location
+
+  registration:
+    title: "Registration"
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: registration
 
   organizers:
     title: "OUR AMAZING TEAM"
