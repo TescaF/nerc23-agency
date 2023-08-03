@@ -16,22 +16,23 @@ en: &DEFAULT_EN
     button: Register
     buttonlink: "#registration"
 
-  services:
+  info:
     title: "About"
-    text: "Lorem ipsum"
+    text: "The **Northeast Robotics Colloquium** (NERC) is a research meeting, networking event, job-fair, and showcase for the Northeastern United States and Canada. We hope to promote the kind of healthy and well-connected robotics community that will fuel the field's rapid growth in the coming decade!"
     section: about
     list:
-      - title: "E-Commerce"
+      - title: "Location"
+        desc: "[Yale University, Science Hill<br/> 260 Whitney Ave, New Haven, CT 06511](https://goo.gl/maps/4TecGLEypSppFy457)"
+        icon: fas fa-map-marker-alt #find more at https://fontawesome.com/icons
+      - title: "Call for Posters"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fa fa-map
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-project-diagram
 
-  clients:
+  sponsors:
+    title: "Sponsors"
     section: sponsors
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -52,7 +53,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Invited Speakers"
     text: "Click on a speaker to view their bio"
-    section: "speakers"
+    section: speakers
     closebutton: "Close"
 
   about:

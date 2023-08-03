@@ -11,18 +11,16 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-#    - title: "About"
-#      section: about
-    - title: "Location"
-      section: location
+    - title: "About"
+      section: about
     - title: "Speakers"
       section: speakers
     - title: "Schedule"
       section: schedule
-    - title: "Registration"
-      section: registration
     - title: "Organizers"
       section: organizers
+    - title: "Registration"
+      section: registration
 
 en-US:
   <<: *DEFAULT_EN
