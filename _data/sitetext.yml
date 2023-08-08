@@ -11,10 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: November 14 - Yale University - New Haven, CT
+    title: November 14 • Yale University • New Haven, CT
     text: NERC 2023
-    button: Register
-    buttonlink: "#registration"
+    button1: Register
+    buttonlink1: "#registration"
+    button2: Submit a Poster
+    buttonlink2: "#poster"
 
   info:
     title: "About"
