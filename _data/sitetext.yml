@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: November 14 • Yale University • New Haven, CT
+    title: November 4th • Yale University • New Haven, CT
     text: NERC 2023
     button1: Register
     buttonlink1: "#registration"
@@ -29,9 +29,9 @@ en: &DEFAULT_EN
       - title: "Call for Posters"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fa fa-map
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fas fa-project-diagram
+      - title: "Important Dates"
+        desc: "Abstracts due: N/A <br/> Registration closes: N/A <br/> Event date: Nov 4"
+        icon: fa fa-calendar-alt
 
   sponsors:
     title: "Sponsors"
@@ -72,6 +72,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Organizers"
+    text: Questions? Email us at nerc2023.yale@gmail.com
     section: organizers
     people:
       - name: "[Marynel Vázquez](https://www.marynel.net/)"
@@ -83,9 +84,6 @@ en: &DEFAULT_EN
       - name: "[Ian Abraham](https://seas.yale.edu/faculty-research/faculty-directory/ian-abraham)"
         role: "Mechanical Engineering, Yale"
         image: assets/img/team/ian.jpg
-      - name: "[Aaron Dollar](https://seas.yale.edu/faculty-research/faculty-directory/aaron-m-dollar)"
-        role: "Mechanical Engineering, Yale"
-        image: assets/img/team/aaron.jpg
       - name: "[Danny Rakita](https://dannyrakita.net/)"
         role: "Computer Science, Yale"
         image: assets/img/team/danny.jpg
