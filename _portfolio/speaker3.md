@@ -1,13 +1,11 @@
 ---
-title: Speaker C 
-subtitle: Position at Company
-image: assets/img/speakers/kitten_3.jpg
-alt: Speaker C, position at company
+title: Alex Wong
+subtitle: Yale University
 
 caption:
-  title: Speaker C 
-  subtitle: Position at Company
-  thumbnail: assets/img/speakers/kitten_3_thumbnail.jpg
+  title: Alex Wong
+  subtitle: Yale University
+  thumbnail: assets/img/speakers/alex_wong_tn.jpg
 ---
 Bio goes here
 

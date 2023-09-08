@@ -24,13 +24,13 @@ en: &DEFAULT_EN
     section: about
     list:
       - title: "Location"
-        desc: "[Yale University, Science Hill<br/> 260 Whitney Ave, New Haven, CT 06511](https://goo.gl/maps/4TecGLEypSppFy457)"
+        desc: "[Marsh Lecture Hall, Yale Science Building<br/> 260 Whitney Ave, New Haven, CT 06511](https://goo.gl/maps/4TecGLEypSppFy457)"
         icon: fas fa-map-marker-alt #find more at https://fontawesome.com/icons
       - title: "Call for Posters"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Presentation Abstract Due: Sept 5<br/>Notification to Presenters: Sept 30 <br/>Poster Abstract Due: Sept 30"
         icon: fa fa-map
       - title: "Important Dates"
-        desc: "Abstracts due: N/A <br/> Registration closes: N/A <br/> Event date: Nov 4"
+        desc: "Undergraduate registration: $35<br/>Early registration (ends TBD): $50 <br/> Late registration: $80"
         icon: fa fa-calendar-alt
 
   sponsors:
@@ -63,12 +63,6 @@ en: &DEFAULT_EN
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: location
-
-  schedule:
-    title: "Schedule"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: schedule
 
   team:
     title: "Organizers"

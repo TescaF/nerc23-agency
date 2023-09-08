@@ -1,13 +1,11 @@
 ---
-title: Speaker A
-subtitle: Position at Company
-image: assets/img/speakers/kitten_1.jpg
-alt: Speaker A, position at company
+title: Taskin Padir
+subtitle: Northeastern University
 
 caption:
-  title: Speaker A
-  subtitle: Position at Company
-  thumbnail: assets/img/speakers/kitten_1_thumbnail.jpg
+  title: Taskin Padir
+  subtitle: Northeastern University
+  thumbnail: assets/img/speakers/taskin_padir_tn.png
 ---
 Bio goes here
 
