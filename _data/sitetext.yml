@@ -29,7 +29,7 @@ en: &DEFAULT_EN
       - title: "Call for Posters"
         desc: "Presentation Abstract Due: Sept 5<br/>Notification to Presenters: Sept 30 <br/>Poster Abstract Due: Sept 30"
         icon: fa fa-map
-      - title: "Important Dates"
+      - title: "Registration"
         desc: "Undergraduate registration: $35<br/>Early registration (ends TBD): $50 <br/> Late registration: $80"
         icon: fa fa-calendar-alt
 
