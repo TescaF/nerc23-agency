@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         desc: "[Marsh Lecture Hall, Yale Science Building<br/> 260 Whitney Ave, New Haven, CT 06511](https://goo.gl/maps/4TecGLEypSppFy457)"
         icon: fas fa-map-marker-alt #find more at https://fontawesome.com/icons
       - title: "Call for Posters"
-        desc: "Presentation Abstract Due: Sept 5<br/>Notification to Presenters: Sept 30 <br/>Poster Abstract Due: Sept 30"
+        desc: "Poster Abstract Due: Sept 30"
         icon: fa fa-map
       - title: "Registration"
         desc: "Undergraduate registration: $35<br/>Early registration (ends TBD): $50 <br/> Late registration: $80"
