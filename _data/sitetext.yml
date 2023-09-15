@@ -16,21 +16,21 @@ en: &DEFAULT_EN
     button1: Register
     buttonlink1: "#registration"
     button2: Submit a Poster
-    buttonlink2: "#poster"
+    buttonlink2: "https://cmt3.research.microsoft.com/NERC2023"
 
   info:
     title: "About"
-    text: "The **Northeast Robotics Colloquium** (NERC) is a research meeting, networking event, job-fair, and showcase for the Northeastern United States and Canada. We hope to promote the kind of healthy and well-connected robotics community that will fuel the field's rapid growth in the coming decade!"
+    text: "The **Northeast Robotics Colloquium** (NERC) is a research meeting, networking event, job-fair, and showcase for the Northeastern United States and Canada. We hope to promote a healthy and well-connected robotics community that will fuel the field's rapid growth in the coming decade!"
     section: about
     list:
       - title: "Location"
         desc: "[Marsh Lecture Hall, Yale Science Building<br/> 260 Whitney Ave, New Haven, CT 06511](https://goo.gl/maps/4TecGLEypSppFy457)"
         icon: fas fa-map-marker-alt #find more at https://fontawesome.com/icons
       - title: "Call for Posters"
-        desc: "Poster Abstract Due: Oct 2"
+        desc: "Poster Abstract Due: **Oct 20**<br/>[Submission site](https://cmt3.research.microsoft.com/NERC2023)"
         icon: fa fa-map
       - title: "Registration"
-        desc: "Undergraduate registration: $35<br/>Early registration (ends Oct 30): $50 <br/> Late registration: $80"
+        desc: "Undergraduate registration: $35<br/>Early registration (ends **Oct 30**): $50 <br/> Late registration: $80"
         icon: fa fa-calendar-alt
 
   sponsors:
