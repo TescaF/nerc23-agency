@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     - title: "Organizers"
       section: organizers
     - title: "Registration"
-      section: registration
+      url: "https://secure.touchnet.net/C20510_ustores/web/store_main.jsp?STOREID=153&SINGLESTORE=true"
 
 en-US:
   <<: *DEFAULT_EN

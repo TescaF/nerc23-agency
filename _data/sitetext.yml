@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: November 4th • Yale University • New Haven, CT
     text: NERC 2023
     button1: Register
-    buttonlink1: "#registration"
+    buttonlink1: "https://secure.touchnet.net/C20510_ustores/web/store_main.jsp?STOREID=153&SINGLESTORE=true"
     button2: Submit a Poster
     buttonlink2: "https://cmt3.research.microsoft.com/NERC2023"
 
