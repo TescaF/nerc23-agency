@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         desc: "[Marsh Lecture Hall, Yale Science Building<br/> 260 Whitney Ave, New Haven, CT 06511](https://goo.gl/maps/4TecGLEypSppFy457)<br/>Parking available in [Lot #22](https://www.google.com/maps/place/Parking+lot,+180+Whitney+Ave,+New+Haven,+CT+06511/@41.3172055,-72.923434,548m/data=!3m1!1e3!4m6!3m5!1s0x89e7d9c7a10cddb3:0x312109f7e89b1f42!8m2!3d41.317549!4d-72.9207718!16s%2Fg%2F11b8yz914y!5m1!1e1?entry=ttu)"
         icon: fas fa-map-marker-alt #find more at https://fontawesome.com/icons
       - title: "Call for Posters"
-        desc: "Poster Abstract Deadline (extended):<br/> **Oct 22**<br/>[Submission site](https://cmt3.research.microsoft.com/NERC2023)"
+        desc: "Poster Abstract Deadline:<br/> **Oct 22** (extended)<br/>[Submission site](https://cmt3.research.microsoft.com/NERC2023)"
         icon: fa fa-map
       - title: "Registration"
         desc: "Undergraduate registration: $35<br/>Early registration (ends **Oct 30**): $50 <br/> Late registration: $80"
