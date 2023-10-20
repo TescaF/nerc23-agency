@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     section: about
     list:
       - title: "Location"
-        desc: "[Marsh Lecture Hall, Yale Science Building<br/> 260 Whitney Ave, New Haven, CT 06511](https://goo.gl/maps/4TecGLEypSppFy457)"
+        desc: "[Marsh Lecture Hall, Yale Science Building<br/> 260 Whitney Ave, New Haven, CT 06511](https://goo.gl/maps/4TecGLEypSppFy457)<br/>Parking available in [Lot #22](https://www.google.com/maps/place/Parking+lot,+180+Whitney+Ave,+New+Haven,+CT+06511/@41.3172055,-72.923434,548m/data=!3m1!1e3!4m6!3m5!1s0x89e7d9c7a10cddb3:0x312109f7e89b1f42!8m2!3d41.317549!4d-72.9207718!16s%2Fg%2F11b8yz914y!5m1!1e1?entry=ttu)"
         icon: fas fa-map-marker-alt #find more at https://fontawesome.com/icons
       - title: "Call for Posters"
         desc: "Poster Abstract Due: **Oct 20**<br/>[Submission site](https://cmt3.research.microsoft.com/NERC2023)"
@@ -32,6 +32,17 @@ en: &DEFAULT_EN
       - title: "Registration"
         desc: "Undergraduate registration: $35<br/>Early registration (ends **Oct 30**): $50 <br/> Late registration: $80"
         icon: fa fa-calendar-alt
+
+  lodging:
+    title: "Lodging"
+    text: "Many hotels closest to Yale are fully booked for the weekend. Here are some alternatives to consider:"
+    list:
+      - item: "[Hotel Marcel](https://www.hilton.com/en/hotels/hvnsdup-hotel-marcel-new-haven/), 1.8 miles from venue, 8 min drive [(directions)](https://www.google.com/maps/dir/Hotel+Marcel,+Sargent+Drive,+New+Haven,+CT/Yale+Science+Building,+Yale+University,+Whitney+Avenue,+New+Haven,+CT/)"
+      - item: "[Hampton Inn & Suites New Haven - South - West Haven](https://www.hilton.com/en/hotels/wthvnhx-hampton-suites-new-haven-south-west-haven/), 6.3 mi away, 11 min drive [(directions)](https://www.google.com/maps/dir/Hampton+Inn+%26+Suites+New+Haven+-+South+-+West+Haven,+510+Saw+Mill+Rd,+West+Haven,+CT+06516/Yale+Science+Building,+Yale+University,+260+Whitney+Ave,+New+Haven,+CT+06511/)"
+      - item: "[Homewood Suites by Hilton - Orange / New Haven](https://www.hilton.com/en/hotels/hvnorhw-homewood-suites-orange-new-haven/), 8.1 mi away, 12 min drive [(directions)](https://www.google.com/maps/dir/Homewood+Suites+by+Hilton+Orange+New+Haven,+99+Marsh+Hill+Rd,+Orange,+CT+06477/Yale+Science+Building,+Yale+University,+260+Whitney+Ave,+New+Haven,+CT+06511/)"
+      - item: "[Courtyard by Marriott New Haven Orange/Milford](https://www.marriott.com/en-us/hotels/hvnco-courtyard-new-haven-orange-milford/overview/), 8.4 mi away, 13 min drive [(directions)](https://www.google.com/maps/dir/Courtyard+by+Marriott+New+Haven+Orange%2FMilford,+136+Marsh+Hill+Rd,+Orange,+CT+06477/Yale+Science+Building,+Yale+University,+260+Whitney+Ave,+New+Haven,+CT+06511/)"
+      - item: "[Residence Inn by Marriott New Haven / Hamden](https://www.marriott.com/en-us/hotels/hvnrh-residence-inn-new-haven-hamden/overview/), 4.8 mi away, 13 min drive [(directions)](https://www.google.com/maps/dir/Residence+Inn+By+Marriott+New+Haven+Hamden,+2308+Whitney+Ave,+Hamden,+CT+06518/Yale+Science+Building,+Yale+University,+260+Whitney+Ave,+New+Haven,+CT+06511/)"
+    section: lodging
 
   sponsors:
     title: "Supported by:"

@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: speakers
     - title: "Schedule"
       section: schedule
+    - title: "Lodging"
+      section: lodging
     - title: "Organizers"
       section: organizers
     - title: "Registration"
