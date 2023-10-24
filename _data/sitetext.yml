@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button1: Register
     buttonlink1: "https://secure.touchnet.net/C20510_ustores/web/store_main.jsp?STOREID=153&SINGLESTORE=true"
     button2: Poster Assignments
-    buttonlink2: ""
+    buttonlink2: "https://docs.google.com/spreadsheets/d/133tWag6m2dWlwFJLIZrjLbz4qd2g2VbJxj3ajDVsZao/edit?usp=sharing"
 
   info:
     title: "About"
@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         desc: "[Marsh Lecture Hall, Yale Science Building<br/> 260 Whitney Ave, New Haven, CT 06511](https://goo.gl/maps/4TecGLEypSppFy457)<br/>Parking available in [Lot #22](https://www.google.com/maps/place/Parking+lot,+180+Whitney+Ave,+New+Haven,+CT+06511/@41.3172055,-72.923434,548m/data=!3m1!1e3!4m6!3m5!1s0x89e7d9c7a10cddb3:0x312109f7e89b1f42!8m2!3d41.317549!4d-72.9207718!16s%2Fg%2F11b8yz914y!5m1!1e1?entry=ttu)"
         icon: fas fa-map-marker-alt #find more at https://fontawesome.com/icons
       - title: "Accepted Posters"
-        desc: "Check your assigned [presentation session](http://yale2023.nerc.io).<br/>Posters must be <strong>vertical</strong> (30&quot;x40&quot; maximum)."
+        desc: "Check your assigned [presentation session](https://docs.google.com/spreadsheets/d/133tWag6m2dWlwFJLIZrjLbz4qd2g2VbJxj3ajDVsZao/edit?usp=sharing).<br/>Posters must be <strong>vertical</strong> (30&quot;x40&quot; maximum)."
         icon: fa fa-map
       - title: "Registration"
         desc: "<strong>Early registration (ends Oct 30):</strong><br/>Undergraduate - $35<br/>Graduate / Faculty / Industry - $50<br/><strong>Late registration (after Oct 30):</strong><br/>All types of registrations are $80"
