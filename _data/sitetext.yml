@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         desc: "Check your assigned [presentation session](https://docs.google.com/spreadsheets/d/133tWag6m2dWlwFJLIZrjLbz4qd2g2VbJxj3ajDVsZao/edit?usp=sharing).<br/>Posters must be <strong>vertical</strong> (30&quot;x40&quot; maximum)."
         icon: fa fa-map
       - title: "Registration"
-        desc: "The event is sold out. If you have an accepted poster or a demo and have not registered yet, please contact the organizers through nerc2023.yale@gmail.com"
+        desc: "The event is sold out, and onsite registration will not be available. If you have an accepted poster or a demo and have not registered yet, please [contact the organizers](mailto:nerc2023.yale@gmail.com)."
         icon: fa fa-calendar-alt
 
   lodging:
